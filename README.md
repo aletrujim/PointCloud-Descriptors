@@ -13,8 +13,8 @@ Or using pip:
 ```
 pip install pyntcloud
 ```
-
-### Cloning
+### Install
+Clone this repository
 ```
 git clone https://github.com/aletrujim/PointCloud-Descriptors.git PointCloudDescriptors
 ```
