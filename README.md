@@ -14,7 +14,7 @@ Or using pip:
 pip install pyntcloud
 ```
 ### Install
-Clone this repository
+Clone this repository:
 ```
 git clone https://github.com/aletrujim/PointCloud-Descriptors.git PointCloudDescriptors
 ```
