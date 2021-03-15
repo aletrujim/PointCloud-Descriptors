@@ -5,11 +5,11 @@
 
 ## Installation
 ### Prerequisites
-Install [pyntcloud](https://github.com/daavoo/pyntcloud)
+Install [pyntcloud](https://github.com/daavoo/pyntcloud) via conda:
 ```
 conda install pyntcloud -c conda-forge
 ```
-Or:
+Or using pip:
 ```
 pip install pyntcloud
 ```
