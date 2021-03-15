@@ -21,7 +21,7 @@ git clone https://github.com/aletrujim/PointCloud-Descriptors.git PointCloudDesc
 
 ## Data adquisition
 The data used in this analysis were acquired with *BRemNet* (Background Removal Network) from [*body2vec*](https://doi.org/10.3390/jimaging6090094).
-If you use BRemNet or body2vec method in your research, please cite this project.
+If you use this data or the method for acquiring your own point clouds dataset in your research, please cite this project.
 ```
 @article{trujillo2020body2vec,
   title={body2vec: 3D Point Cloud Reconstruction for Precise Anthropometry with Handheld Devices},
